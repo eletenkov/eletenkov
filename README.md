@@ -24,7 +24,7 @@ GitOps, IoC, Jcasc, CI/CD, Ansible, Terraform, BigData, ETL, Java, Groovy, Pytho
 * Разработка Helm Chart для развертывания микросервисов и инфраструктуры включая Kafka, Zoookeper, базы данных PosgreSQL;
 * Раветывание и сопровождение СУБД PosgreSQL, Greenplum, MySQL, Clickhouse, Tarantool;
 * Автоматизация процесса управления репозиториями в GitLab через Terraform;
-* Настройка и унификация системы сбора и визуализации журналов событий;
+* Настройка и унификация системы сбора и визуализации журналов событий Grafana, Loki;
 * Настройка и поддержка процесса ETL с использованием Hadoop, Spark, Airflow
 
 Стек:
