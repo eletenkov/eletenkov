@@ -12,13 +12,13 @@
 
 Коротко:
 
-GitOps, IoC, Jcasc, CI/CD, Ansible, Terraform, BigData, ETL, Java, Groovy, Python, Bash, HCL, Jsonet, Jira, Confluence, Sphix
+GitOps, IoC, Jcasc, CI/CD, Ansible, Terraform, BigData, ETL, Java, Groovy, Python, Bash, HCL, Jsonet, Jira, Confluence, Sphinx
 
 Практика:
 
 * Развертывание сетевой инфрструктуры и виртуальных машин для стендов разработки и тестирования через Terraform;
 * Разработка ansible-role'й и ansible playbook'в для развертывания микросервисов и инфраструктуры на серверах под управлением операционных систем Linux;
-* Разработка процессов CI/CD с применением Jenkins Pipeline, Gitlab CI;
+* Разработка процессов CI/CD с применением Jenkins Pipeline, Job DSL, Gitlab CI;
 * Разработка библиотки Jenkins Pipeline на Groovy для унификации процесса CI/CD для множества однотипных сервисов;
 * Развертывание и настрока Kubernetes в Yandex Cloud через Terraform;
 * Разработка Helm Chart для развертывания микросервисов и инфраструктуры включая Kafka, Zoookeper, базы данных PosgreSQL
