@@ -4,7 +4,7 @@
 
 Мой основной профиль [@letenkov](https://github.com/letenkov) мой сайт https://www.letenkov.ru
 
-С 2021 года я работую в компании [ITOne](https://www.it-one.ru/), в должности DevOps Engineer
+С ноября 2020 года я работую в компании [ITOne](https://www.it-one.ru/), в должности DevOps Engineer
 
 Проекты:
 
