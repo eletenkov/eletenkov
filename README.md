@@ -53,5 +53,6 @@ GitOps, IoC, Jcasc, CI/CD, Ansible, Terraform, BigData, ETL, Java, Groovy, Pytho
 * Graylog
 * Selenium, JMeter, Allure
 * Bacula
+* Sphinx Doc
 
 Мой прошлый опыт работы вы можете найти в моем [резюме](http://www.letenkov.ru/resume.html)
