@@ -35,24 +35,23 @@ GitOps, IoC, Jcasc, CI/CD, Ansible, Terraform, BigData, ETL, Java, Groovy, Pytho
 * JDK 8/11/17, Maven, Gradle, Spring Boot
 * Bare-metal, СКАЛА, Yandex Cloud, Selectel
 * Libvirt, VirtualBox, Vagrant, Packer
-* Docker, Docker Registry
+* Docker, Docker Compose
 * Kubernetes, Managed-Kubernetes
 * СentOS 7, Debian/Ubuntu, Altlinux, AstraLinux, RedOS
 * HAProxy, Nginx
-* GlusterFS, NFS, Minio, S3
-* Grafana, Grafana Dashboards, Grafana Loki
-* Prometheus, Promtail, 
+* GlusterFS, NFS, Minio
+* Grafana, Dashboards, Loki
+* Prometheus, Alertmanager, Nodeexporter
 * Hadoop,Spark,Airflow,
 * Kafka, Zookeeper
 * PostgreSQL, Greenplum, MariaDB
 * Clickhouse
 * Redis, Redis Cluster, Etcd, MongoDB, Tarantool
 * Portainer, Kafka Explorer, VNC,
-* Bacula, Chrony
 * Vactor, FluentBit
-* JournalBeat, FileBeat
 * Elastic Search, Kibana, Logstash (ELK)
 * Graylog
 * Selenium, JMeter, Allure
+* Bacula
 
 Мой прошлый опыт работы вы можете найти в моем [резюме](http://www.letenkov.ru/resume.html)
