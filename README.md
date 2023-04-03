@@ -16,13 +16,13 @@ GitOps, IoC, Jcasc, CI/CD, Ansible, Terraform, BigData, ETL, Java, Groovy, Pytho
 
 Практика:
 
-* Развертывание сетевой инфрструктуры и виртуальных машин для стендов разработки и тестирования через Terraform, Ansible;
+* Развертывание сетевой инфраструктуры и виртуальных машин для стендов разработки и тестирования через Terraform, Ansible;
 * Разработка ansible-role'й и ansible playbook'в для развертывания микросервисов и инфраструктуры на серверах под управлением операционных систем Linux;
 * Разработка процессов CI/CD с применением Jenkins Pipeline, Job DSL, Gitlab CI;
-* Разработка библиотки Jenkins Pipeline на Groovy для унификации процесса CI/CD для множества однотипных сервисов;
-* Развертывание и настрока Kubernetes в Yandex Cloud через Terraform;
-* Разработка Helm Chart для развертывания микросервисов и инфраструктуры включая Kafka, Zoookeper, базы данных PosgreSQL;
-* Раветывание и сопровождение СУБД PosgreSQL, Greenplum, MySQL, Clickhouse, Tarantool;
+* Разработка библиотеки Jenkins Pipeline на Groovy для унификации процесса CI/CD для множества однотипных сервисов;
+* Развертывание и настройка Kubernetes в Yandex Cloud через Terraform;
+* Разработка Helm Chart для развертывания микросервисов и инфраструктуры включая Kafka, Zookeeper, базы данных PosgreSQL;
+* Развертывание и сопровождение СУБД PosgreSQL, Greenplum, MySQL, Clickhouse, Tarantool;
 * Автоматизация процесса управления репозиториями в GitLab через Terraform;
 * Настройка и унификация системы сбора и визуализации журналов событий Grafana, Loki;
 * Настройка и поддержка процесса ETL с использованием Hadoop, Spark, Airflow
@@ -34,7 +34,7 @@ GitOps, IoC, Jcasc, CI/CD, Ansible, Terraform, BigData, ETL, Java, Groovy, Pytho
 * Terraform, Ansible, Helm
 * JDK 8/11/17, Maven, Gradle, Spring Boot
 * Bare-metal, СКАЛА, Yandex Cloud, Selectel
-* KVM, VirtualBox, Vagrant, Packer
+* Libvirt, VirtualBox, Vagrant, Packer
 * Docker, Docker Registry
 * Kubernetes, Managed-Kubernetes
 * СentOS 7, Debian/Ubuntu, Altlinux, AstraLinux, RedOS
