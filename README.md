@@ -8,7 +8,7 @@
 
 Проекты:
 
-[ПОДД СМЭВ](https://info.gosuslugi.ru/articles/%D0%9A%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE_%D0%BE_%D0%A1%D0%9C%D0%AD%D0%92_4_(%D0%9F%D0%9E%D0%94%D0%94)/) Подсистема обеспечения доступа к данным федеральной государственной информационной системы  [Витрина данных НСУД](https://nsud.gosuslugi.ru) для [Госуслуг](https://www.gosuslugi.ru)
+[ПОДД СМЭВ](https://info.gosuslugi.ru/articles/%D0%9A%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE_%D0%BE_%D0%A1%D0%9C%D0%AD%D0%92_4_(%D0%9F%D0%9E%D0%94%D0%94)/) Подсистема обеспечения доступа к данным федеральной государственной информационной системы  [Витрина данных НСУД](https://nsud.gosuslugi.ru) для [Госуслуг](https://www.gosuslugi.ru) по зкаказу [Минцифры РФ](https://digital.gov.ru/ru/). 
 
 Коротко:
 
