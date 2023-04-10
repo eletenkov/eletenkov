@@ -21,7 +21,7 @@ GitOps, IoC, Jcasc, CI/CD, Ansible, Terraform, BigData, ETL, Java, Groovy, Pytho
 * Разработка процессов CI/CD с применением Jenkins Pipeline, Job DSL, Gitlab CI;
 * Разработка библиотеки Jenkins Pipeline на Groovy для унификации процесса CI/CD для множества однотипных сервисов;
 * Развертывание и настройка Kubernetes в Yandex Cloud через Terraform;
-* Разработка Helm Chart для развертывания микросервисов и инфраструктуры включая Kafka, Zookeeper, базы данных PosgreSQL;
+* Разработка Helm Chart для развертывания микросервисов и инфраструктуры включая Kafka, Zookeeper;
 * Развертывание и сопровождение СУБД PosgreSQL, Greenplum, MySQL, Clickhouse, Tarantool;
 * Автоматизация процесса управления репозиториями в GitLab через Terraform;
 * Настройка и унификация системы сбора и визуализации журналов событий Grafana, Loki;
