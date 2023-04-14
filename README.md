@@ -29,30 +29,6 @@ GitOps, IoC, Jcasc, CI/CD, Ansible, Terraform, BigData, ETL, Java, Groovy, Pytho
 
 Стек:
 
-* Git, Github, GitLab, Bitbucket
-* Jenkins, Jenkins Job DSL, Jenkins Agents, Artifactory, Nexus, Sonarqube
-* Terraform, Ansible, Helm
-* JDK 8/11/17, Maven, Gradle, Spring Boot
-* Bare-metal, СКАЛА, Yandex Cloud, Selectel
-* Libvirt, VirtualBox, Vagrant, Packer
-* Docker, Docker Compose
-* Kubernetes, Managed-Kubernetes
-* СentOS 7, Debian/Ubuntu, Altlinux, AstraLinux, RedOS
-* HAProxy, Nginx
-* GlusterFS, NFS, Minio
-* Grafana, Dashboards, Loki
-* Prometheus, Alertmanager, Nodeexporter
-* Hadoop,Spark,Airflow,
-* Kafka, Zookeeper
-* PostgreSQL, Greenplum, MariaDB
-* Clickhouse
-* Redis, Redis Cluster, Etcd, MongoDB, Tarantool
-* Portainer, Kafka Explorer, VNC,
-* Vactor, FluentBit
-* Elastic Search, Kibana, Logstash (ELK)
-* Graylog
-* Selenium, JMeter, Allure
-* Bacula
-* Sphinx Doc
+Alertmanager, Amazon S3, Ansible, Ansible Molecule, Apache Airflow, Apache Hadoop, Apache Kafka, Apache Spark, Apache Zookeeper, Atlassian BitBucket, Atlassian Confluence, Atlassian Jira, Bacula, Bash Shell, Bash-scripting, ClickHouse, Debian GNU/Linux, Docker, Docker Compose, Docker Swarm, Elastic Beats, Elastic Kibana, Elastic Stack, Elasticsearch, ETCD, Filebeat, FluentBit, Git, Git LFS, Gitflow, GitHub, Gitlab CI/CD, GlusterFS, Grafana, Grafana Loki, GraphQL, Graylog, Greenplum Database, Groovy Jenkins DSL, gRPC, HAProxy, HashiCorp Packer, HashiCorp Terraform, HashiCorp Vault, Helm, Helmfile, HTML, Java 8 - 17, JDK, Jenkins Pipeline, JFrog Artifactory, JMeter, JSON, Kafka Tool, Kubernetes, KVM Virtualization, Linux Containers LXC, Linux KVM, MariaDB, Microsoft Office, Microsoft Windows 10, MinIO, MongoDB, MySQL, Network File System (NFS), Nexus Repository, Nginx, Portainer, Prometheus, Protobuf, Redis, REST API, Selenium, Selenium IDE, Selenium WebDriver, Selenoid, SonarQube, SQL, Tarantool, Ubuntu, Vagrant, VECTOR, VirtualBox, VNClients, XML, YAML, Yandex Cloud
 
 Мой прошлый опыт работы вы можете найти в моем [резюме](http://www.letenkov.ru/resume.html)
