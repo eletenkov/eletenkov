@@ -12,7 +12,7 @@
 
 Коротко:
 
-GitOps, IoC, Jcasc, CI/CD, Ansible, Terraform, BigData, ETL, Java, Groovy, Python, Bash, HCL, Jsonet, Jira, Confluence, Sphinx
+GitOps, IaC, Jcasc, CI/CD, Ansible, Terraform, BigData, ETL, Java, Groovy, Python, Bash, HCL, Jsonet, Jira, Confluence, Sphinx
 
 Практика:
 
