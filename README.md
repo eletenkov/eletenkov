@@ -17,7 +17,7 @@ GitOps, IaC, Jcasc, CI/CD, Ansible, Terraform, BigData, ETL, Java, Groovy, Pytho
 Практика:
 
 * Развертывание сетевой инфраструктуры и виртуальных машин для стендов разработки и тестирования через Terraform, Ansible;
-* Разработка ansible-role'й и ansible playbook'в для развертывания микросервисов и инфраструктуры на серверах под управлением операционных систем Linux;
+* Разработка ansible-role и ansible playbook для развертывания микросервисов и инфраструктуры на серверах под управлением операционных систем Linux;
 * Разработка процессов CI/CD с применением Jenkins Pipeline, Job DSL, Gitlab CI;
 * Разработка библиотеки Jenkins Pipeline на Groovy для унификации процесса CI/CD для множества однотипных сервисов;
 * Развертывание и настройка Kubernetes в Yandex Cloud через Terraform;
@@ -27,7 +27,7 @@ GitOps, IaC, Jcasc, CI/CD, Ansible, Terraform, BigData, ETL, Java, Groovy, Pytho
 * Настройка и унификация системы сбора и визуализации журналов событий Grafana, Loki;
 * Настройка и поддержка процесса ETL с использованием Hadoop, Spark, Airflow
 
-Стек:
+Технологии и инструменты:
 
 Alertmanager, Amazon S3, Ansible, Ansible Molecule, Apache Airflow, Apache Hadoop, Apache Kafka, Apache Spark, Apache Zookeeper, Atlassian BitBucket, Atlassian Confluence, Atlassian Jira, Bacula, Bash-scripting, Bash Shell, ClickHouse, Debian GNU/Linux, Docker, Docker Compose, Docker Swarm, Elastic Beats, Elastic Kibana, Elasticsearch, Elastic Stack, ETCD, Filebeat, FluentBit, Git, Gitflow, GitHub, Gitlab CI/CD, Git LFS, GlusterFS, Grafana, Grafana Loki, GraphQL, Graylog, Greenplum Database, Groovy Jenkins DSL, gRPC, HAProxy, HashiCorp Packer, HashiCorp Terraform, HashiCorp Vault, Helm, Helmfile, HTML, Java 8 - 17, JDK, Jenkins Pipeline, JFrog Artifactory, JMeter, JSON, Kafka Tool, Kubernetes, KVM Virtualization, Linux Containers LXC, Linux KVM, MariaDB, Maven, Microsoft Office, Microsoft Windows 10, MinIO, MongoDB, MySQL, Network File System (NFS), Nexus Repository, Nginx, Portainer, Prometheus, Protobuf, Redis, REST API, Selenium, Selenium IDE, Selenium WebDriver, Selenoid, SonarQube, SQL, Tarantool, Ubuntu, Vagrant, VECTOR, VirtualBox, VNClients, XML, YAML, Yandex Cloud
 
