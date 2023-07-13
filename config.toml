@@ -1,0 +1,65 @@
+baseURL = "https://eletenkov.github.io/"
+languageCode = "ru-ru"
+defaultContentLanguage ="ru"
+title = "ELetenkov"
+theme="archie"
+copyright = "© Evgeniy Letenkov"
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "eletenkov"
+
+paginate=3 # articles per page
+
+[params]
+	mode="dark" # color-mode → light,dark,toggle or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "Профессиональный блог"
+	mathjax = true # enable MathJax support
+	katex = true # enable KaTeX support
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/eletenkov"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/eletenkov/"
+
+[[params.social]]
+name = "GitLab"
+icon = "gitlab"
+url = "https://gitlab.com/eletenkov/"
+
+# Main menu Items
+
+[[menu.main]]
+name = "Главная"
+url = "/"
+weight = 1
+
+#[[menu.main]]
+#name = "Блог"
+#url = "/blog"
+#weight = 2
+
+#[[menu.main]]
+#name = "Статьи"
+#url = "/posts"
+#weight = 3
+
+#[[menu.main]]
+#name = "О сейте"
+#url = "/about"
+#weight = 4
+
+#[[menu.main]]
+#name = "Теги"
+#url = "/tags"
+#weight = 5
